@@ -1,0 +1,45 @@
+* Org mode!
+  Boston emacs meetup tutorial follow-up notes
+
+** Org-mode markup
+
+*** Basic
+
+    *Bold* ,/italic/, =verbatim=, +strikethrough+
+    - bulleted
+    - list
+    - items
+
+*** Links (create with C-c C-l)
+
+    [[https:github.com/bobishh/orgmode-tutorial.git][This file repo]]
+
+*** Tables
+    | Name   | Description     |
+    |--------+-----------------|
+    | Rabbit | Small hermivore |
+    | Cow    | Big hermivore   |
+    | Dog    | Just a dog      |
+*** Meta-data
+
+    #+TITLE: Org-mode introduction
+    #+OPTIONS:
+
+*** Source-code
+    <s TAB, C-c ' -> edit code in *lang*-mode
+
+    #+BEGIN_SRC ruby
+      def print_something(something)
+        print something
+      end
+    #+END_SRC
+*** Exporting - call C-c C-e for menu
+*** LaTeX integration
+    
+- Characters: \alpha \rightarrow \beta
+- $O(n \log n)$ 
+    
+\begin{align*}
+  3 * 2 + 1 &= 6 + 1 \\
+            &= 7
+\end{align*}
