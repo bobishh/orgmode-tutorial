@@ -1,0 +1,11 @@
+* Org mode!
+  Boston emacs meetup tutorial follow-up notes
+
+** Org-mode markup
+*Bold* ,/italic/, =verbatim=, +strikethrough+
+
+- bulleted
+- list
+- items
+
+[[https:github.com/bobishh/orgmode-tutorial.git][This file repo]]
