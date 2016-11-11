@@ -47,6 +47,13 @@
 
 **** DONE add more todos
 **** DONE mark todo as done
-**** TODO finish video with emacs tutorial and live happy
-**** TODO START USING THESE TODOS
+**** DONE finish video with emacs tutorial and live happy
+     DEADLINE: <2016-11-12 Sat>
+     
 
+
+     
+
+
+     
+=org-publish=
