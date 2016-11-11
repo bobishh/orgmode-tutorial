@@ -43,3 +43,10 @@
   3 * 2 + 1 &= 6 + 1 \\
             &= 7
 \end{align*}
+*** Todos
+
+**** DONE add more todos
+**** DONE mark todo as done
+**** TODO finish video with emacs tutorial and live happy
+**** TODO START USING THESE TODOS
+
